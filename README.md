@@ -1,8 +1,10 @@
 # Wenex - Landing Page para Mercado Financeiro
 
-## Descrição
+>Wenex é uma landing page desenvolvida para uma empresa do mercado financeiro. O objetivo é fornecer informações relevantes sobre serviços financeiros, como investimentos, assessoria, consultoria >financeira, e produtos relacionados. O projeto foi feito como freelancer e visa otimizar a conversão de visitantes em leads qualificados.
 
-Wenex é uma landing page desenvolvida para uma empresa do mercado financeiro. O objetivo é fornecer informações relevantes sobre serviços financeiros, como investimentos, assessoria, consultoria financeira, e produtos relacionados. O projeto foi feito como freelancer e visa otimizar a conversão de visitantes em leads qualificados.
+<div align="center">
+    <img src="https://i.imgur.com/9C7nkCg.png" width="300rem">
+</div>
 
 ## Funcionalidades
 
